@@ -19,7 +19,7 @@
 
 ## Demo
 
-https://github.com/user-attachments/assets/9502e37b-4f47-4382-a887-8f97f52ae58a
+Download demo.mp4
 
 ## About
 
