@@ -19,7 +19,7 @@
 
 ## Demo
 
-Download demo.mp4
+Download **demo.mp4** in the repository
 
 ## About
 
@@ -36,8 +36,8 @@ Tokyo hums with efficiency. Its towers gleam, its transit runs on time, its citi
 
 ## How to Play
 
-1. Download and install the application [Ren'Py](https://drive.google.com/drive/folders/1sgDBV73fYzE96zzLbnizfG47LgLW-w_s?usp=sharing)
-2. Unzip and run. Enjoy!
+1. Download and install the application [here](https://drive.google.com/drive/folders/1sgDBV73fYzE96zzLbnizfG47LgLW-w_s?usp=sharing)
+2. Unzip and run the application. **Enjoy!**
 
 ## Characters
 
