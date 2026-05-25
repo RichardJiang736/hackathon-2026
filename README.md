@@ -50,6 +50,9 @@ Tokyo hums with efficiency. Its towers gleam, its transit runs on time, its citi
 
 Built with [Ren'Py](https://www.renpy.org/). All art and writing are original.
 
+## Influences
+*Taxi Driver*, *The Batman*, *Joker*, Radiohead, Nirvana
+
 ---
 
 <p align="center">
