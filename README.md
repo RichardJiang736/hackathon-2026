@@ -1,0 +1,4 @@
+# Hackathon-2026
+
+Where the Rainbow Ends is a cyberpunk visual novel set in a futuristic Tokyo that appears prosperous, efficient, and technologically advanced, but hides inequality, surveillance, and emotional exhaustion beneath its neon surface. Players follow Reiji, a corporate engineer, as he meets Ren, a lower-class drifter, and gradually discovers how both of them are trapped by the same city in different ways. The project explores the problem of dehumanization in systems that look successful from the outside. To use it, players launch the game, read through the story, and make choices that affect dialogue tone, trust, internal thoughts, and the ending. The game is built with Ren’Py and uses a split-screen dialogue system to show both what characters say and what they truly think.
+https://drive.google.com/drive/folders/1sgDBV73fYzE96zzLbnizfG47LgLW-w_s?usp=sharing
