@@ -25,7 +25,7 @@ Download **demo.mp4** in the repository
 
 Tokyo hums with efficiency. Its towers gleam, its transit runs on time, its citizens smile in corporate headshots. But beneath the neon, something is unraveling.
 
-**Where the Rainbow Ends** follows **Morikawa Reiji**, a mid-level engineer at a systems corporation, as a chance encounter with **Ren** — a drifter from the lower wards — pulls him into corners of the city he was never meant to see. Through a branching narrative, players navigate conversations where what's said aloud and what's thought in silence are equally important.
+**Where the Rainbow Ends** is a cyberpunk visual novel set in a futuristic Tokyo that appears prosperous, efficient, and technologically advanced, but hides inequality, surveillance, and emotional exhaustion beneath its neon surface. Players follow **Reiji**, a corporate engineer, as he meets **Ren**, a lower-class drifter, and gradually discovers how both of them are trapped by the same city in different ways. The project explores the problem of dehumanization in systems that look successful from the outside. To use it, players launch the game, read through the story, and make choices that affect dialogue tone, trust, internal thoughts, and the ending. The game is built with Ren’Py and uses a split-screen dialogue system to show both what characters say and what they truly think.
 
 ## Features
 
@@ -48,7 +48,7 @@ Tokyo hums with efficiency. Its towers gleam, its transit runs on time, its citi
 
 ## Credits
 
-Built with [Ren'Py](https://www.renpy.org/). All art, writing, and audio are original.
+Built with [Ren'Py](https://www.renpy.org/). All art and writing are original.
 
 ---
 
